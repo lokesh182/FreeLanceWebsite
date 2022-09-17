@@ -1,0 +1,197 @@
+
+.btn {
+  font-size:15px;
+  font-family: adobe-garamond-pro, serif;
+  width:140px;
+  height:50px;
+  border-width:1px;
+  color:#fff;
+  border-color:#45b29a;
+  font-weight:bold;
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
+  border-bottom-left-radius:8px;
+  border-bottom-right-radius:8px;
+   background-color: #45b29a;
+  transition: 0.3s;
+  text-transform: uppercase;
+
+}
+
+.btn:hover {
+  background-color: #1e836c;
+  cursor: pointer;
+  
+
+  
+}
+              
+
+
+b{
+  font-family: adobe-garamond-pro, serif;
+
+
+
+font-style: normal;
+
+}
+
+p{
+  font-family: adobe-garamond-pro, serif;
+
+font-weight: 400;
+
+font-style: normal;
+
+}
+hr
+{
+  background-color: #e0ebe8;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  margin-top: 3.5%;
+}
+h2{
+  color: #4fb39d;
+}
+.myskills
+{
+  margin-top: 4.5%;
+}
+.topcontainer {
+  background-color: #e0ebe8;
+  position: relative;
+  padding-top: 100px;
+}
+body {
+  margin: 0px;
+  text-align: center;
+  background-color: #ffff;
+  font-family: 'Source Serif Pro', serif;
+  font-size: 20px;
+}
+.skill-row
+{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 1.4;
+}
+
+
+.htmlskill{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+.cssskill
+{
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+.jskill
+{
+  float: right;
+  width: 15%;
+  margin-left: 50px;
+}
+.iamlokesh {
+  line-height: 2;
+  margin: 0;
+  font-family: 'Tangerine', cursive;
+  font-size: 5.625rem;
+  color: #4fb39d;
+
+}
+.paragraph
+{
+    font-size: 1.25rem;
+    bottom: 100px;
+    color:#4fb39d;
+    
+}
+.cloud-bottom {
+  position: absolute;
+  left: 300px;
+  right: 300px;
+  
+}
+.cloud-top {
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+.profile
+{
+    background-color: white;
+}
+.mountain
+{
+    position: relative;
+    height: 300px;
+    width: 800px;
+   margin-top: 230px;
+    
+}
+.section
+{
+    padding: 6em 0 0;
+    margin: 0 0 6em;
+}
+.profilepic
+{
+    margin-top: 100px;
+}
+.bottom-container 
+{
+  
+  color: #1e836c;
+}
+nav a
+{
+  display: inline-block;
+  text-decoration: none;
+  color:#1e836c;
+  margin-top: 40px;
+}   
+a:hover
+{
+  color: #545f;
+}
+a {
+  -webkit-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+h2{
+  font-weight: normal;
+}
+.jsimg
+{
+  margin-right:90px;
+}
+nav{
+  margin-top: 80px;
+}
+.footer
+{
+  background-color: #c5ded7;
+  display: block;
+  height: 150px;
+  
+}
+.github
+{
+  margin-left: 50px;
+}
+.copyright
+{
+  color: #52b6a2;
+}
+h3{
+  
+}
+
